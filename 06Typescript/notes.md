@@ -1,0 +1,1 @@
+Lecture01: https://app.notion.com/p/TypeScript_Complete_Student_Notes-c37a9af81c988227b6f881344e33cb91?source=copy_link
